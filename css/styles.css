@@ -1,0 +1,46 @@
+p {
+    color: green;
+    font-size: 30px;
+}
+
+h5 {
+    color: blue;
+    font-size: 20px;
+}
+
+div { 
+    background-color: #64A405;
+}
+
+.backgroud-pink {
+    background-color: pink;
+
+}
+
+.pink {
+    color: pink;
+}
+
+.div_style {
+    color: red; 
+    font-size: 50px; 
+    text-align: right; 
+    border: 10px solid black;
+    padding: 30px;
+    margin: 20px;
+    background-color: yellow;
+}
+
+.h1_style {
+    color: indigo; 
+    font-size: 50px; 
+    text-align: right; 
+    border: 3px solid coral;
+    padding: 30px;
+    margin: 0px;
+    background-color: goldenrod;
+}
+
+#red {
+    color: red;
+}
